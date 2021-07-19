@@ -1,0 +1,73 @@
+strong{
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    color: rgb(247, 247, 247);
+}
+
+
+ form .input-group{
+    margin-top: 20px;
+    display: grid;
+    gap: 20px;
+    margin: 50%,
+}
+
+ form .input-group .input-block{
+    margin-top: 0;
+}
+
+ form{
+    margin-top: 30px;
+}
+
+ form .textField-block label {
+    color: #000000;
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+}
+
+ form .textField-block input {
+    width: 50ch;
+    height: 40;
+    font-size: 14px;
+    color: rgb(3, 3, 3);
+    background:#fff;
+    border: 0;
+    border-bottom: 1px solid #eee;
+}
+
+form button[type=submit] {
+    width: 100px;
+    border: 0;
+    margin-top: 30px;
+    background: #ffffff;
+    border-radius: 2px;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+} 
+header{
+    background-image: url("18764761.jpg");
+    height: 10vh;
+    background-attachment: fixed;
+    display: flex;
+    background-size: auto;
+}
+
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: white;
+    background: #1F2C3FB6;
+}
+
+section{
+    height: 1500px;
+}
